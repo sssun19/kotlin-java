@@ -1,4 +1,4 @@
-package com.example.kotlinjavastudy
+package com.fastcampus.kotlinlombok.kotlinjavastudy
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
